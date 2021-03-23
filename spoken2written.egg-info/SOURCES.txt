@@ -1,0 +1,8 @@
+README.rst
+setup.py
+spoken2written/convert.py
+spoken2written/rules.py
+spoken2written.egg-info/PKG-INFO
+spoken2written.egg-info/SOURCES.txt
+spoken2written.egg-info/dependency_links.txt
+spoken2written.egg-info/top_level.txt
