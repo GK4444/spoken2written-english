@@ -1,0 +1,7 @@
+setup.py
+spoken2written-english/conversion.py
+spoken2written-english/rules.py
+spoken2written_english.egg-info/PKG-INFO
+spoken2written_english.egg-info/SOURCES.txt
+spoken2written_english.egg-info/dependency_links.txt
+spoken2written_english.egg-info/top_level.txt
