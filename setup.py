@@ -1,8 +1,5 @@
 from setuptools import setup
 
-# with open("README.md", 'r') as f:
-#     long_description = f.read()
-
 setup(
    name='spoken2written-english',
    version='1.0',
